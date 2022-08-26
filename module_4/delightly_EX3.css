@@ -23,10 +23,19 @@ h1 {
     padding: 10px;
 }
 
-#website {
-    width: 100%;
+#footer {
     margin-top: 60%;
-    float: right;
+    width: 100%;
+}
+
+#to-top{
+	float: right;
+    margin-bottom: 20px;
+	margin-left: 80%;
+}
+
+#url{
+	float: right;
     margin-bottom: 20px;
 }
 
