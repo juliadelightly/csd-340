@@ -1,0 +1,41 @@
+#image-gallery {
+    margin-top: 10%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+h1, h3, figure {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+}
+
+img {
+    width: 400px;
+    height: 350px;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: .75em;
+}
+
+h1, h3, figcaption {
+    color: rgba(185, 63, 8, 1);
+}
+
+body {
+    background-color: rgba(257, 112, 24, 0.2);
+}
+
+#item {
+    border: 1px solid rgba(185, 63, 8, 1);
+    border-radius: 15px;
+    padding: 5px;
+}
