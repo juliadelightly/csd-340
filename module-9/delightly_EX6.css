@@ -37,6 +37,7 @@ h1 {
 #container {
     margin-top: 2% 5% 100px 5%;
     padding: 10px;
+    padding-bottom: 100px; /**to fix scrolling issue**/
 }
 
 .card {
