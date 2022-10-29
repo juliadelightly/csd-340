@@ -1,5 +1,5 @@
-# CSD 340 Web Development with HTML and CSS
-This repository will be used for hosting the assignments for CSD-340
+# CSD 340 Interactive Development with JavaScript
+This repository will be used for hosting the assignments for CSD-360
 ## Contributors
 * Professor Sue Sampson
 * Julia Delightly
